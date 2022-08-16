@@ -37,10 +37,10 @@ Does Pewlett-Hackard already have the capacity to handle the "silver tsunami?" W
 In conclusion, we can answer the following questions: 
 
 - **Q1.** How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-          - A1. There will be 72,458 positions potentially affected by retirement. 
+	- **A1.** There will be 72,458 positions potentially affected by retirement. 
    
 - **Q2.** Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-         - A2. Unfortunately, there are not enough mentors, because there are only 1,549 employees eligible for the mentorship program. 
+  	- **A2.** Unfortunately, there are not enough mentors, because there are only 1,549 employees eligible for the mentorship program. 
 
 Here are two suggested queries and tables that might provide more insight. 
 
