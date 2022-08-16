@@ -30,13 +30,19 @@ Does Pewlett-Hackard already have the capacity to handle the "silver tsunami?" W
 1. We ran a query to check who is eligible for the mentorship program. It turns out, 1,549 employees are eligible. The eligibility criteria are that the employee must currently be working at Pewlett-Hackard and they must have been born some time in the year 1965. 
    - We had to join three tables to gain this information: `employees`, `dept_emp`, and `titles`. 
 
-![There are not enough people (1549, there's a header) in the company who can be mentored to fill the positions.](https://github.com/saramcel/Pewlett-Hackard-Analysis/blob/414bd42fd70fdc5b8d81e65347a83b812a2b8fc2/Resources/table3.png)
+![There are not enough people in the company who can be mentored to fill the positions. Remember there's a header, so it's only 1,549 employees.](https://github.com/saramcel/Pewlett-Hackard-Analysis/blob/70bb15070b970d07102074d45a7d7f725764a75c/Resources/table3.png)
 
 ## Summary
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+In conclusion, we can answer the following questions: 
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+   - There will be 72,458 positions potentially affected by retirement. 
+   
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+   - Unfortunately, there are not enough mentors 
+
+two additional queries or tables that may provide more insight.
+
 Deliverable 3 Requirements
 Structure, Organization, and Formatting (6 points)
 The written analysis has the following structure, organization, and formatting:
